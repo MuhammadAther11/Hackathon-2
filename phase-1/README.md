@@ -20,6 +20,10 @@ From the root of the repository:
 
 ```bash
 cd phase-1/implementation
+# To launch the interactive Terminal UI (Default)
+python -m src
+
+# To use the original CLI arguments mode
 python -m src <command> [arguments]
 ```
 
